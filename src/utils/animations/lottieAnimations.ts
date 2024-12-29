@@ -1,7 +1,6 @@
-// Lottie animation URLs
 export const LOTTIE_ANIMATIONS = {
-  developer: "https://lottie.host/5d6c9e89-3d79-4af9-9c3c-e5d7b5a6e3f2/developer-coding.json",
-  skills: "https://lottie.host/7d445df7-69f7-4b8f-9c9c-a52c0e5e5d1d/skills-growth.json",
-  contact: "https://lottie.host/3f3c7a42-c5c4-4761-8f6e-8407e1c5e6d8/message-sent.json",
-  loading: "https://lottie.host/2d6c9e89-3d79-4af9-9c3c-e5d7b5a6e3f2/loading-animation.json"
+  developer: "https://lottie.host/04fd7e3b-7e42-4fee-85f2-2283244dac3a/tRCrOmwo6J.json",
+  skills: "https://lottie.host/950c013d-a32d-493d-a948-d5f03cde011e/Qch6P6ZilE.json",
+  contact: "https://lottie.host/4363a882-bc66-4db8-b30d-28fd76e78662/53xrKd8MNv.json",
+  loading: "https://lottie.host/ec227d22-f2ee-4276-b0cd-40ba350d2e30/exIrJB7lIM.json"
 };
