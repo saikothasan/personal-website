@@ -14,3 +14,5 @@ const LoadingAnimation: React.FC = () => {
     </div>
   );
 };
+
+export default LoadingAnimation;
